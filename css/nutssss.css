@@ -44,7 +44,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(https://cdn.jsdelivr.net/gh/userunknownx/userunknownx.github.io/images/avatar.png) no-repeat;
+    background: url(/images/avatar.png) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
